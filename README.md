@@ -33,12 +33,10 @@ Awesome Computer-Aided Design (CAD) papers
 | [Sketch2CAD: Sequential CAD Modeling by Sketching in Context](https://arxiv.org/abs/2009.04927) | SIGGRAPH Asia 2020 | [[project](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/)] [[code](https://github.com/Enigma-li/Sketch2CAD)] |
 | [CAD2Sketch: Generating Concept Sketches from CAD Sequences](https://repo-sam.inria.fr/d3/cad2sketch/cad2sketch_paper.pdf) | SIGGRAPH Asia 2022 | [[project](https://ns.inria.fr/d3/cad2sketch/)] [[code](https://gitlab.inria.fr/D3/cad2sketch)] |
 
-
 ### 3D CAD Command Generation
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-|  |  | |
 
 
 ### 3D CAD Generation with Direct B-rep synthesis

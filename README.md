@@ -1,5 +1,5 @@
-# Awesome-CAD
-Awesome Computer-Aided Design (CAD) papers
+# Awesome-CAD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD/tree/main?tab=readme-ov-file).
 
 ## 3D CAD Generation
 

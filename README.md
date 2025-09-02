@@ -45,6 +45,27 @@ Awesome Computer-Aided Design (CAD) papers
 
 ### 3D CAD Generation with Direct B-rep synthesis
 
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944) | TMLR 2023 | |
+| [CADParser: A Learning Approach of Sequence Modeling for B-Rep CAD](https://www.ijcai.org/proceedings/2023/0200.pdf) | IJCAI 2023 | |
+| [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563) | SIGGRAPH 2024 | [[code](https://github.com/samxuxiang/BrepGen)] |
+| [DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry](https://arxiv.org/pdf/2503.13110) | CVPR 2025 | [[code](https://github.com/jinli99/DTGBrepGen)] |
+
 ### 3D CAD Generation from Point Cloud
 
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders](https://arxiv.org/abs/2112.09329) | CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
+| [Reconstructing Editable Prismatic CAD from Rounded Voxel Models](https://arxiv.org/abs/2209.01161) | SIGGRAPH Asia 2022 | |
+| [ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation](https://arxiv.org/abs/2205.14573) | SIGGRAPH 2022 | [[project](https://haopan.github.io/complexgen.html)] [[code](https://github.com/guohaoxiang/ComplexGen)] |
+| [Draw step by step: Reconstructing cad construction sequences from point clouds via multimodal diffusion]() |  |  |
+
 ### 3D CAD Generation from Image
+
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [CADDreamer: CAD Object Generation from Single-view Images](https://arxiv.org/pdf/2502.20732) | CVPR 2025 |  |
+| [CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images](https://arxiv.org/pdf/2504.04753) | CVPR 2025 |  |
+
+

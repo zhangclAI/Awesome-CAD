@@ -45,7 +45,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [Aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [CADDreamer: CAD Object Generation from Single-view Images](https://arxiv.org/pdf/2502.20732) | CVPR 2025 |  |
+| [CADDreamer: CAD Object Generation from Single-view Images](https://arxiv.org/pdf/2502.20732) | CVPR 2025 | [[project](https://lidan233.github.io/caddreamer/)] [[code](https://github.com/lidan233/CADDreamer)] |
 | [CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images](https://arxiv.org/pdf/2504.04753) | CVPR 2025 |  |
 
 

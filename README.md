@@ -37,7 +37,11 @@ Awesome Computer-Aided Design (CAD) papers
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-
+| [DeepCAD: A Deep Generative Network for Computer-Aided Design Models](https://arxiv.org/abs/2105.09492) | ICCV 2021 | [[project](http://www.cs.columbia.edu/cg/deepcad/)] [[code](https://github.com/ChrisWu1997/DeepCAD)] |
+| [Inferring CAD Modeling Sequences Using Zone Graphs]([https://arxiv.org/abs/2105.09492](https://arxiv.org/pdf/2104.03900)) | CVPR 2021 |  |
+| [Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences](https://arxiv.org/abs/2010.02392) | SIGGRAPH 2021 | [[project](https://github.com/AutodeskAILab/Fusion360GalleryDataset)] |
+| [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632) | ICML 2022 | [[project](https://samxuxiang.github.io/skexgen)] [[code](https://github.com/samxuxiang/SkexGen)] |
+| [Diffusioncad: Controllable diffusion model for generating computer-aided design models]() |  |  |
 
 ### 3D CAD Generation with Direct B-rep synthesis
 

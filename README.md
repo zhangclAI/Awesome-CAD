@@ -8,7 +8,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [Aweso
 ### 3D CAD Generation from Sketch
 
 |3D CAD Generation from Sketch|
-|--------|
+|--------|-------|-------|
 | Papers | Venue | Links |
 |--------|-------|-------|
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](http://www-sop.inria.fr/reves/Basilic/2022/LPBM22/Free2CAD.pdf) | SIGGRAPH Asia 2022 | [[project](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/)] [[code](https://github.com/Enigma-li/Free2CAD)] |

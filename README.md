@@ -39,7 +39,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [Aweso
 | [Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders](https://arxiv.org/abs/2112.09329) | CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
 | [Reconstructing Editable Prismatic CAD from Rounded Voxel Models](https://arxiv.org/abs/2209.01161) | SIGGRAPH Asia 2022 | |
 | [ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation](https://arxiv.org/abs/2205.14573) | SIGGRAPH 2022 | [[project](https://haopan.github.io/complexgen.html)] [[code](https://github.com/guohaoxiang/ComplexGen)] |
-| [Draw step by step: Reconstructing cad construction sequences from point clouds via multimodal diffusion]() |  |  |
+| Draw step by step: Reconstructing cad construction sequences from point clouds via multimodal diffusion |  |  |
 
 ### 3D CAD Generation from Image
 
